@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\MvcWebIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\areas\\admin\\views\\adminclaims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\areas\\admin\\views\\adminclaims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\areas\\admin\\controllers\\adminclaimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\areas\\admin\\controllers\\adminclaimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\areas\\admin\\views\\adminclaims\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\areas\\admin\\views\\adminclaims\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\areas\\admin\\views\\adminclaims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\areas\\admin\\views\\adminclaims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\areas\\admin\\controllers\\adminrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\areas\\admin\\controllers\\adminrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\areas\\admin\\models\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\areas\\admin\\models\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Cadastro/True/SqlTable/dbo.AspNetUserClaims.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\services\\seeduserclaimsinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\services\\seeduserclaimsinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\services\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\services\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\policies\\tempocadastrohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\policies\\tempocadastrohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\policies\\tempocadastrorequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\policies\\tempocadastrorequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|d:\\git\\mvcwebidentity\\mvcwebidentity\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E3B61-E42E-429D-9550-958539825CD8}|MvcWebIdentity\\MvcWebIdentity.csproj|solutionrelative:mvcwebidentity\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminClaimsController.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminClaimsController.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminClaimsController.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminClaimsController.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminClaimsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T15:02:39.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T15:35:11.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\EditUser.cshtml",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\EditUser.cshtml",
+              "RelativeToolTip": "MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\EditUser.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwD0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T15:45:45.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\Index.cshtml",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\Index.cshtml",
+              "RelativeToolTip": "MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T15:14:42.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\Create.cshtml",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\Create.cshtml",
+              "RelativeToolTip": "MvcWebIdentity\\Areas\\Admin\\Views\\AdminClaims\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T15:34:12.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminRolesController.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:05:56.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcWebIdentity\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T15:15:08.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Models\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Areas\\Admin\\Models\\EditUserViewModel.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Areas\\Admin\\Models\\EditUserViewModel.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Areas\\Admin\\Models\\EditUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T15:12:42.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeedUserRoleInitial.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Services\\SeedUserRoleInitial.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Services\\SeedUserRoleInitial.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Services\\SeedUserRoleInitial.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Services\\SeedUserRoleInitial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:00:26.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedUserClaimsInitial.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Services\\SeedUserClaimsInitial.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Services\\SeedUserClaimsInitial.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Services\\SeedUserClaimsInitial.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Services\\SeedUserClaimsInitial.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T13:53:16.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Controllers\\ProdutosController.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:20:51.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.AspNetUserClaims [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Cadastro/True/SqlTable/dbo.AspNetUserClaims.sql",
+              "ToolTip": "dbo.AspNetUserClaims [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-20T14:43:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Program.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Program.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwFsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:03:11.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TempoCadastroHandler.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Policies\\TempoCadastroHandler.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Policies\\TempoCadastroHandler.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Policies\\TempoCadastroHandler.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Policies\\TempoCadastroHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:31:40.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TempoCadastroRequirement.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Policies\\TempoCadastroRequirement.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Policies\\TempoCadastroRequirement.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Policies\\TempoCadastroRequirement.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Policies\\TempoCadastroRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:29:55.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\appsettings.json",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\appsettings.json",
+              "RelativeToolTip": "MvcWebIdentity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-20T13:26:00.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcWebIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T13:28:35.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T13:14:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "MvcWebIdentity\\Entities\\Produto.cs",
+              "ToolTip": "D:\\Git\\MvcWebIdentity\\MvcWebIdentity\\Entities\\Produto.cs",
+              "RelativeToolTip": "MvcWebIdentity\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T13:14:48.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
